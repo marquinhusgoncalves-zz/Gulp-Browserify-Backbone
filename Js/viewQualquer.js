@@ -8,7 +8,7 @@ module.exports = Backbone.View.extend({
 	},
 
 	botao : function(){
-		alert("opa");
+		alert("Clicado");
 	},
 	initialize:function(options) {
 		el = options.el;
