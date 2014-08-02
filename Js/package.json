@@ -1,0 +1,26 @@
+{
+  "name": "Gulp-Browserify-Backbone",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "gulp-browserify": "^0.5.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-watch": "^0.6.9",
+    "vinyl-source-stream": "^0.1.1"
+  },
+  "devDependencies": {
+    "backbone": "^1.1.2",
+    "gulp": "^3.8.7",
+    "gulp-browserify": "^0.5.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-watch": "^0.6.9",
+    "jquery": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Carvalho",
+  "license": "ISC"
+}
